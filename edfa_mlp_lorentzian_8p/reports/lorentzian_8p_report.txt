@@ -1,0 +1,34 @@
+=======================================================
+ EDFA MLP Evaluation - lorentzian_8p
+=======================================================
+
+Overall Metrics
+  MSE : 0.00212758
+  MAE : 0.01565358
+  R²  : 0.72194047
+
+Per-Output Metrics
+  [  1] peak  1 amplitude  | MSE=0.000319  MAE=0.013533  R²=0.643071
+  [  2] peak  1 center     | MSE=0.000011  MAE=0.002201  R²=0.943327
+  [  3] peak  1 width      | MSE=0.002755  MAE=0.039026  R²=0.852140
+  [  4] peak  2 amplitude  | MSE=0.000231  MAE=0.011588  R²=0.758484
+  [  5] peak  2 center     | MSE=0.000009  MAE=0.001974  R²=0.954057
+  [  6] peak  2 width      | MSE=0.001356  MAE=0.029041  R²=0.779881
+  [  7] peak  3 amplitude  | MSE=0.000992  MAE=0.025019  R²=0.936184
+  [  8] peak  3 center     | MSE=0.000014  MAE=0.002809  R²=0.970865
+  [  9] peak  3 width      | MSE=0.000404  MAE=0.015125  R²=0.539186
+  [ 10] peak  4 amplitude  | MSE=0.000840  MAE=0.017728  R²=0.967269
+  [ 11] peak  4 center     | MSE=0.000009  MAE=0.002021  R²=0.587389
+  [ 12] peak  4 width      | MSE=0.000237  MAE=0.010117  R²=0.929399
+  [ 13] peak  5 amplitude  | MSE=0.000577  MAE=0.010953  R²=0.556016
+  [ 14] peak  5 center     | MSE=0.000010  MAE=0.002311  R²=0.933709
+  [ 15] peak  5 width      | MSE=0.021165  MAE=0.069790  R²=0.803897
+  [ 16] peak  6 amplitude  | MSE=0.000628  MAE=0.013939  R²=0.501312
+  [ 17] peak  6 center     | MSE=0.000007  MAE=0.001752  R²=0.786693
+  [ 18] peak  6 width      | MSE=0.019937  MAE=0.058524  R²=0.523656
+  [ 19] peak  7 amplitude  | MSE=0.000122  MAE=0.007593  R²=0.698532
+  [ 20] peak  7 center     | MSE=0.000009  MAE=0.001966  R²=-0.007829
+  [ 21] peak  7 width      | MSE=0.000575  MAE=0.013891  R²=0.519671
+  [ 22] peak  8 amplitude  | MSE=0.000055  MAE=0.005233  R²=0.378991
+  [ 23] peak  8 center     | MSE=0.000009  MAE=0.002040  R²=0.932782
+  [ 24] peak  8 width      | MSE=0.000793  MAE=0.017510  R²=0.837890

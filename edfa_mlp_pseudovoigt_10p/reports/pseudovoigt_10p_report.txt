@@ -1,0 +1,50 @@
+=======================================================
+ EDFA MLP Evaluation - pseudovoigt_10p
+=======================================================
+
+Overall Metrics
+  MSE : 0.00116575
+  MAE : 0.01846189
+  R²  : 0.83017053
+
+Per-Output Metrics
+  [  1] peak  1 amplitude  | MSE=0.000003  MAE=0.001259  R²=0.919832
+  [  2] peak  1 center     | MSE=0.000016  MAE=0.003197  R²=0.996895
+  [  3] peak  1 width      | MSE=0.001262  MAE=0.027894  R²=0.780195
+  [  4] peak  2 eta        | MSE=0.000391  MAE=0.016231  R²=0.995946
+  [  5] peak  2 amplitude  | MSE=0.000275  MAE=0.012191  R²=0.880401
+  [  6] peak  2 center     | MSE=0.000016  MAE=0.003197  R²=0.995765
+  [  7] peak  3 width      | MSE=0.002900  MAE=0.042640  R²=0.837131
+  [  8] peak  3 eta        | MSE=0.000386  MAE=0.016448  R²=0.996170
+  [  9] peak  3 amplitude  | MSE=0.000823  MAE=0.023903  R²=0.631367
+  [ 10] peak  4 center     | MSE=0.000014  MAE=0.003040  R²=0.993210
+  [ 11] peak  4 width      | MSE=0.003156  MAE=0.043929  R²=0.706050
+  [ 12] peak  4 eta        | MSE=0.000361  MAE=0.015185  R²=0.675879
+  [ 13] peak  5 amplitude  | MSE=0.000907  MAE=0.025208  R²=0.578008
+  [ 14] peak  5 center     | MSE=0.000014  MAE=0.003024  R²=0.995928
+  [ 15] peak  5 width      | MSE=0.001774  MAE=0.032515  R²=0.775978
+  [ 16] peak  6 eta        | MSE=0.000391  MAE=0.016118  R²=0.995977
+  [ 17] peak  6 amplitude  | MSE=0.002535  MAE=0.042742  R²=0.328065
+  [ 18] peak  6 center     | MSE=0.000013  MAE=0.002986  R²=0.978717
+  [ 19] peak  7 width      | MSE=0.000932  MAE=0.021905  R²=0.930648
+  [ 20] peak  7 eta        | MSE=0.000251  MAE=0.011640  R²=0.045185
+  [ 21] peak  7 amplitude  | MSE=0.001771  MAE=0.023253  R²=0.944645
+  [ 22] peak  8 center     | MSE=0.000013  MAE=0.002932  R²=0.647597
+  [ 23] peak  8 width      | MSE=0.004916  MAE=0.048642  R²=0.959716
+  [ 24] peak  8 eta        | MSE=0.000400  MAE=0.016652  R²=0.997682
+  [ 25] peak  9 amplitude  | MSE=0.000829  MAE=0.021166  R²=0.882761
+  [ 26] peak  9 center     | MSE=0.000013  MAE=0.002937  R²=0.951312
+  [ 27] peak  9 width      | MSE=0.004969  MAE=0.042767  R²=0.854393
+  [ 28] peak 10 eta        | MSE=0.004109  MAE=0.024174  R²=0.921180
+  [ 29] peak 10 amplitude  | MSE=0.000367  MAE=0.015631  R²=0.704653
+  [ 30] peak 10 center     | MSE=0.000014  MAE=0.003013  R²=0.993754
+  [ 31] peak 11 width      | MSE=0.003178  MAE=0.026498  R²=0.675105
+  [ 32] peak 11 eta        | MSE=0.004122  MAE=0.026864  R²=0.981964
+  [ 33] peak 11 amplitude  | MSE=0.000261  MAE=0.012539  R²=0.874998
+  [ 34] peak 12 center     | MSE=0.000020  MAE=0.003519  R²=0.993995
+  [ 35] peak 12 width      | MSE=0.001239  MAE=0.027188  R²=0.874679
+  [ 36] peak 12 eta        | MSE=0.000241  MAE=0.011688  R²=0.053856
+  [ 37] peak 13 amplitude  | MSE=0.000016  MAE=0.002788  R²=0.921644
+  [ 38] peak 13 center     | MSE=0.000015  MAE=0.003120  R²=0.994956
+  [ 39] peak 13 width      | MSE=0.003361  MAE=0.042669  R²=0.968133
+  [ 40] peak 14 eta        | MSE=0.000354  MAE=0.015186  R²=0.972452

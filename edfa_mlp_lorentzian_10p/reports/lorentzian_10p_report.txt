@@ -1,0 +1,40 @@
+=======================================================
+ EDFA MLP Evaluation - lorentzian_10p
+=======================================================
+
+Overall Metrics
+  MSE : 0.00030131
+  MAE : 0.01002454
+  R²  : 0.89440650
+
+Per-Output Metrics
+  [  1] peak  1 amplitude  | MSE=0.000080  MAE=0.007178  R²=0.915443
+  [  2] peak  1 center     | MSE=0.000021  MAE=0.002715  R²=0.979305
+  [  3] peak  1 width      | MSE=0.001359  MAE=0.028483  R²=0.920542
+  [  4] peak  2 amplitude  | MSE=0.000158  MAE=0.009859  R²=0.851421
+  [  5] peak  2 center     | MSE=0.000016  MAE=0.002572  R²=0.987962
+  [  6] peak  2 width      | MSE=0.001267  MAE=0.027073  R²=0.867309
+  [  7] peak  3 amplitude  | MSE=0.000160  MAE=0.009849  R²=0.490311
+  [  8] peak  3 center     | MSE=0.000014  MAE=0.002388  R²=0.993340
+  [  9] peak  3 width      | MSE=0.001028  MAE=0.023875  R²=0.835044
+  [ 10] peak  4 amplitude  | MSE=0.000607  MAE=0.019180  R²=0.954427
+  [ 11] peak  4 center     | MSE=0.000011  MAE=0.002242  R²=0.994709
+  [ 12] peak  4 width      | MSE=0.000604  MAE=0.016929  R²=0.852994
+  [ 13] peak  5 amplitude  | MSE=0.000411  MAE=0.012279  R²=0.898562
+  [ 14] peak  5 center     | MSE=0.000017  MAE=0.002468  R²=0.981425
+  [ 15] peak  5 width      | MSE=0.000295  MAE=0.011304  R²=0.914663
+  [ 16] peak  6 amplitude  | MSE=0.000878  MAE=0.017513  R²=0.913255
+  [ 17] peak  6 center     | MSE=0.000008  MAE=0.001971  R²=0.987108
+  [ 18] peak  6 width      | MSE=0.000215  MAE=0.011095  R²=0.498233
+  [ 19] peak  7 amplitude  | MSE=0.000319  MAE=0.011202  R²=0.867036
+  [ 20] peak  7 center     | MSE=0.000017  MAE=0.002570  R²=0.975688
+  [ 21] peak  7 width      | MSE=0.000226  MAE=0.011709  R²=0.815472
+  [ 22] peak  8 amplitude  | MSE=0.000121  MAE=0.007751  R²=0.849720
+  [ 23] peak  8 center     | MSE=0.000009  MAE=0.001938  R²=0.979288
+  [ 24] peak  8 width      | MSE=0.000222  MAE=0.011828  R²=0.876317
+  [ 25] peak  9 amplitude  | MSE=0.000205  MAE=0.008352  R²=0.930192
+  [ 26] peak  9 center     | MSE=0.000010  MAE=0.002008  R²=0.981256
+  [ 27] peak  9 width      | MSE=0.000350  MAE=0.014469  R²=0.883416
+  [ 28] peak 10 amplitude  | MSE=0.000022  MAE=0.002536  R²=0.954033
+  [ 29] peak 10 center     | MSE=0.000016  MAE=0.002739  R²=0.994143
+  [ 30] peak 10 width      | MSE=0.000376  MAE=0.014661  R²=0.889579
